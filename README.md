@@ -4,5 +4,5 @@
 - They must mention the solution links in comments of the solutions or resources used to solve the problem.
 - - - -
 # **Resources:**
-[![Leetcode](https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp)](https://leetcode.com/problemset/?page=1 "LeetCode")
-[![Hackerrank](https://cdn.iconscout.com/icon/free/png-256/free-hackerrank-3521478-2944922.png)](https://www.hackerrank.com/interview/interview-preparation-kit "Hackerrank")
+[![Leetcode](./Utils/leetcode.png)](https://leetcode.com/problemset/?page=1 "LeetCode")
+[![Hackerrank](./Utils/Hackerrank%20icon.png)](https://www.hackerrank.com/interview/interview-preparation-kit "Hackerrank")
